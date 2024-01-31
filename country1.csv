@@ -1,0 +1,126 @@
+country,state,city,population
+USA,New York,New York City,88327
+USA,New York,Buffalo,84428
+USA,New York,Albany,40845
+USA,New York,Rochester,63637
+USA,New York,Syracuse,24972
+USA,California,Los Angeles,37139
+USA,California,San Francisco,51422
+USA,California,San Diego,73965
+USA,California,Sacramento,15770
+USA,California,San Jose,44915
+USA,Texas,Houston,59441
+USA,Texas,Dallas,41119
+USA,Texas,Austin,13755
+USA,Texas,San Antonio,63313
+USA,Texas,Fort Worth,58735
+USA,Florida,Miami,87345
+USA,Florida,Orlando,96554
+USA,Florida,Tampa,12995
+USA,Florida,Jacksonville,61971
+USA,Florida,Fort Lauderdale,88758
+USA,Illinois,Chicago,39313
+USA,Illinois,Springfield,51510
+USA,Illinois,Peoria,87963
+USA,Illinois,Champaign,19982
+USA,Illinois,Rockford,63777
+Canada,Ontario,Toronto,21332
+Canada,Ontario,Ottawa,88344
+Canada,Ontario,Mississauga,64895
+Canada,Ontario,Hamilton,82953
+Canada,Ontario,London,90906
+Canada,Quebec,Montreal,96148
+Canada,Quebec,Quebec City,43941
+Canada,Quebec,Laval,58515
+Canada,Quebec,Gatineau,35397
+Canada,Quebec,Longueuil,52538
+Canada,British Columbia,Vancouver,38713
+Canada,British Columbia,Surrey,15999
+Canada,British Columbia,Burnaby,78864
+Canada,British Columbia,Kelowna,39658
+Canada,British Columbia,Victoria,61649
+Canada,Alberta,Calgary,53095
+Canada,Alberta,Edmonton,71548
+Canada,Alberta,Red Deer,57128
+Canada,Alberta,Lethbridge,39796
+Canada,Alberta,St. Albert,61171
+Canada,Manitoba,Winnipeg,44668
+Canada,Manitoba,Brandon,26339
+Canada,Manitoba,Steinbach,15606
+Canada,Manitoba,Portage la Prairie,76213
+Canada,Manitoba,Thompson,10705
+India,Maharashtra,Mumbai,59218
+India,Maharashtra,Pune,69342
+India,Maharashtra,Nagpur,76970
+India,Maharashtra,Nashik,52884
+India,Maharashtra,Thane,12146
+India,Uttar Pradesh,Lucknow,54596
+India,Uttar Pradesh,Kanpur,95409
+India,Uttar Pradesh,Agra,99734
+India,Uttar Pradesh,Varanasi,46542
+India,Uttar Pradesh,Meerut,52447
+India,Karnataka,Bangalore,33373
+India,Karnataka,Mysore,90663
+India,Karnataka,Hubli,97200
+India,Karnataka,Mangalore,31029
+India,Karnataka,Belgaum,33547
+India,Tamil Nadu,Chennai,21457
+India,Tamil Nadu,Coimbatore,34275
+India,Tamil Nadu,Madurai,62774
+India,Tamil Nadu,Tiruchirappalli,59828
+India,Tamil Nadu,Salem,46728
+India,West Bengal,Kolkata,11949
+India,West Bengal,Howrah,71022
+India,West Bengal,Durgapur,43642
+India,West Bengal,Asansol,57711
+India,West Bengal,Siliguri,54926
+Australia,New South Wales,Sydney,82765
+Australia,New South Wales,Newcastle,49479
+Australia,New South Wales,Central Coast,15924
+Australia,New South Wales,Wollongong,87121
+Australia,New South Wales,Blue Mountains,15847
+Australia,Victoria,Melbourne,96136
+Australia,Victoria,Geelong,37976
+Australia,Victoria,Ballarat,42222
+Australia,Victoria,Bendigo,17964
+Australia,Victoria,Frankston,68154
+Australia,Queensland,Brisbane,75508
+Australia,Queensland,Gold Coast,56124
+Australia,Queensland,Cairns,25729
+Australia,Queensland,Townsville,19395
+Australia,Queensland,Toowoomba,65127
+Australia,Western Australia,Perth,24845
+Australia,Western Australia,Fremantle,98053
+Australia,Western Australia,Mandurah,23349
+Australia,Western Australia,Bunbury,83511
+Australia,Western Australia,Geraldton,86741
+Australia,South Australia,Adelaide,73471
+Australia,South Australia,Mount Gambier,39545
+Australia,South Australia,Whyalla,19612
+Australia,South Australia,Murray Bridge,16789
+Australia,South Australia,Port Lincoln,73550
+Germany,Bavaria,Munich,83704
+Germany,Bavaria,Nuremberg,67856
+Germany,Bavaria,Augsburg,80327
+Germany,Bavaria,Regensburg,90834
+Germany,Bavaria,Würzburg,96866
+Germany,North Rhine-Westphalia,Cologne,43641
+Germany,North Rhine-Westphalia,Düsseldorf,50280
+Germany,North Rhine-Westphalia,Dortmund,58632
+Germany,North Rhine-Westphalia,Essen,75017
+Germany,North Rhine-Westphalia,Duisburg,56768
+Germany,Baden-Württemberg,Stuttgart,44953
+Germany,Baden-Württemberg,Karlsruhe,21057
+Germany,Baden-Württemberg,Mannheim,38837
+Germany,Baden-Württemberg,Freiburg,49389
+Germany,Baden-Württemberg,Heidelberg,50077
+Germany,Lower Saxony,Hanover,24469
+Germany,Lower Saxony,Braunschweig,62361
+Germany,Lower Saxony,Osnabrück,98038
+Germany,Lower Saxony,Oldenburg,47002
+Germany,Lower Saxony,Göttingen,71264
+Germany,Hesse,Frankfurt,64672
+Germany,Hesse,Wiesbaden,52356
+Germany,Hesse,Kassel,57519
+Germany,Hesse,Darmstadt,91516
+Germany,Hesse,Offenbach,42541
